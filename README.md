@@ -34,7 +34,10 @@
 ![Libray style](assets/images/components.PNG)
 - Creating nav bar was so hard i had to do same thing over and over so many time
   i wish i can find something easy then this
-
+- I have published a new library named `dsgn270-a5` with all the components and i have used 
+   same font and colors from `dsgn270-a4`.
+- It was real nice experience i liked it i learnend so much stuff mostly 
+- How to start creating a website why we need to design a site.
 
 ### Attributions
 
